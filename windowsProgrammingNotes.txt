@@ -1,0 +1,10 @@
+New console app project
+run it
+console.readline
+declare variables, do some math, console.writeline
+produce syntax error
+show list<string>
+foreach loop and if statement
+put a breakpoint and debug
+create a function
+string methods toupper

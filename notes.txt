@@ -1,0 +1,16 @@
+UI- user interface (what's you see on screen, how things look and interact)
+syntax- the spelling and grammar of a programming language. The computer
+only understands what you type if it's in the EXACT form it expects.
+The expected form is called the syntax
+what you will learn today is some of the syntax for writing web and windows code
+IDE - integrated development environment such as visual studio that we'll be using
+today. It's a software application that provides alot of useful tools that help
+you write code
+
+Help needed
+1. Reception- receive as they arrive, escort to building C
+2. Signs pointing toward entrance of building A
+3. Refreshments table
+4. Programmer to assist in computer lab
+
+

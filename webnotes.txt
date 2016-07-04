@@ -1,0 +1,120 @@
+
+installing software needed
+1. go to https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx and click on the 
+Download Community 2015 button, after it downloads go ahead and run it
+2. Leave the defaults it chooses for you and just keep clicking next and let it install (install takes 
+a long time b/c it will be downloading all the files it needs during installation)
+3. After you install it may ask you to reboot, go ahead and restart your computer
+4. You should have something called Visual Studio 2015 installed now, start it
+5. It will ask you to sign in, just click the link toward the bottom that says Not Now
+6. It will then ask you to select your theme, choose whatever theme you like and continue
+7. Visual studio will take some time to open the first time, you'll see a message that tells you it
+could take a few minutes while it's preparing for first use
+8. Once it's done and opens, it will open to a start Page,  that's as far as you need to go, you can now close it
+if you bring a laptop, show up about 15-20 mins early so we can make sure your laptop is good to go
+
+
+
+html stands for hypertext markup language, came out in 1990. Think of it as "hidden" code
+that helps the programmer tell the web browser what and how to display things.
+
+You can build simple html pages with nothing but notepad but it's easier to use
+software tools called IDE (Integrated Development Environment), you'll see why when
+we start using it.
+
+
+When you are coding html you are adding certain "tags" that give the browser instructions
+for how to display text or images. You're going to see these in use in a moment but some example tags 
+are the following  <html></html>  <div></div>  
+
+
+Tags are also referred to as elements. You can easily tell
+what are tags versus text in a html page by looking for the brackets (< >)
+
+Almost every tag has a begin tag and a closing tag (there are a few 
+exceptions and we'll see those as we go)
+
+
+
+a html page consists for 4 primary tags
+html, head, title and body
+<!DOCTYPE> this is really not a tag, it tells the browser what version of html you are using
+html- tells the browser that this file contains html
+head- contains the title of the html document and references to javascript
+and css files
+title - what you put for the title appears in the browser (show it)
+body- main content, this is where you'll put everything you are wanting to show
+
+Nesting- you'll see alot of this with html, it has a nesting structure
+
+h1-h6- headline tags, from small to large
+hr- line across the page, doesn't need closing tag
+p  - start a new paragraph
+br - line break (doesn't need a closing tag)
+
+ul-  unordered list
+ol- ordered list
+li -  list item
+
+a -  anchor tag or a link. You'll see attributes which are inside the
+opening tag and they give more specific instructions to the browser. 
+href is the url address that you want the browser to go to when this
+link is clicked
+
+img-  src, alt
+
+html comments
+
+span
+div
+
+
+input (text, checkbox)
+textarea
+button
+select
+table, thead,th,tbody,tr
+style
+
+css
+font-weight
+font-size
+color
+background-color
+margin
+padding
+border
+border-radius
+max-width
+width
+
+fun css
+transitions
+animations
+
+javascript- real coding, what we just did may not be considered
+real computer programmer. We do that stuff here as programmers
+but many places might have a team of web design specialists
+that use fancy software tools to build the htmls and css
+Programmers will add functionality to the page
+by coding javascript to make the web page more 
+interactive or dynamic
+
+console.log
+variables- places in memory that store information
+concatentation
+strings- toUpperCase
+indexOf
+arrays- length, index
+for loop
+if statement
+functions
+document.getElementById
+
+
+
+links 
+wc3 reference
+pluralsight
+sql server express (free sql server database software)
+visual studio community (free ide that you used today)
