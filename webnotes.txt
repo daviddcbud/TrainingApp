@@ -93,7 +93,7 @@ transitions
 animations
 
 javascript- real coding, what we just did may not be considered
-real computer programmer. We do that stuff here as programmers
+real computer programming. We do that stuff here as programmers
 but many places might have a team of web design specialists
 that use fancy software tools to build the htmls and css
 Programmers will add functionality to the page

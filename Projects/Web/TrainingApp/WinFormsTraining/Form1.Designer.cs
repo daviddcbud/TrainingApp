@@ -35,8 +35,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.lblName = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.rb10th = new System.Windows.Forms.RadioButton();
             this.rb11th = new System.Windows.Forms.RadioButton();
+            this.rb10th = new System.Windows.Forms.RadioButton();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -95,12 +95,22 @@
             // 
             this.groupBox1.Controls.Add(this.rb11th);
             this.groupBox1.Controls.Add(this.rb10th);
-            this.groupBox1.Location = new System.Drawing.Point(200, 43);
+            this.groupBox1.Location = new System.Drawing.Point(152, 43);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(200, 100);
             this.groupBox1.TabIndex = 6;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Grade";
+            // 
+            // rb11th
+            // 
+            this.rb11th.AutoSize = true;
+            this.rb11th.Location = new System.Drawing.Point(15, 42);
+            this.rb11th.Name = "rb11th";
+            this.rb11th.Size = new System.Drawing.Size(46, 17);
+            this.rb11th.TabIndex = 1;
+            this.rb11th.Text = "11th";
+            this.rb11th.UseVisualStyleBackColor = true;
             // 
             // rb10th
             // 
@@ -113,16 +123,6 @@
             this.rb10th.TabStop = true;
             this.rb10th.Text = "10th";
             this.rb10th.UseVisualStyleBackColor = true;
-            // 
-            // rb11th
-            // 
-            this.rb11th.AutoSize = true;
-            this.rb11th.Location = new System.Drawing.Point(15, 42);
-            this.rb11th.Name = "rb11th";
-            this.rb11th.Size = new System.Drawing.Size(46, 17);
-            this.rb11th.TabIndex = 1;
-            this.rb11th.Text = "11th";
-            this.rb11th.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
