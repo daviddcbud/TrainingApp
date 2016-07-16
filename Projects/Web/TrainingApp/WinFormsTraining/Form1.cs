@@ -36,5 +36,11 @@ namespace WinFormsTraining
         {
             lblName.Text = "";
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var frm = new frmHobbies();
+            frm.Show();
+        }
     }
 }
